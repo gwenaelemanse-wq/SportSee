@@ -33,6 +33,12 @@ Le projet est concu pour un usage portfolio et met en avant:
 - Gestion des etats `loading` et `error`
 - Fallback possible sur des donnees mockees
 
+## Captures d'ecran
+
+![Page de connexion](docs/screenshots/login.png)
+![Dashboard](docs/screenshots/dashboard.png)
+![Profil](docs/screenshots/profile.png)
+
 ## Lancement du Projet
 
 ### Prerequis
