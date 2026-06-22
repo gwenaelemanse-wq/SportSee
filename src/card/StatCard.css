@@ -1,0 +1,66 @@
+.stat-card {
+	--stat-accent: #1a2cf0;
+	display: flex;
+	align-items: flex-start;
+	gap: 10px;
+	padding: 14px 22px;
+	border-radius: 10px;
+	background: var(--stat-accent);
+	box-shadow: none;
+	border: none;
+	min-height: 78px;
+}
+
+.stat-card__icon {
+	width: 30px;
+	height: 30px;
+	border-radius: 8px;
+	display: grid;
+	place-items: center;
+	font-size: 0.95rem;
+	font-weight: 700;
+	color: #ffffff;
+	background: rgba(255, 255, 255, 0.18);
+}
+
+.stat-card__content {
+	display: flex;
+	flex-direction: column;
+	gap: 6px;
+	min-width: 0;
+}
+
+.stat-card__label {
+	margin: 0;
+	font-size: 1rem;
+	color: rgba(255, 255, 255, 0.92);
+}
+
+.stat-card__value {
+	margin: 0;
+	font-size: 2rem;
+	color: #ffffff;
+	line-height: 1.2;
+}
+
+.stat-card__value strong {
+	font-weight: 500;
+}
+
+.stat-card__unit {
+	color: rgba(255, 255, 255, 0.86);
+	font-size: 0.9em;
+	font-weight: 500;
+}
+
+.stat-card--blue {
+	--stat-accent: #1a2cf0;
+}
+
+.stat-card--orange {
+	--stat-accent: #1a2cf0;
+}
+
+.stat-card--teal {
+	--stat-accent: #1a2cf0;
+}
