@@ -96,6 +96,11 @@ src/
 - Ce repository est volontairement centre sur le frontend.
 - Le dossier `backend/` est ignore par Git dans ce depot.
 
+## Contexte de Formation
+
+Ce projet a ete realise dans le cadre de ma formation Developpeuse Web Full-Stack chez OpenClassrooms.
+Il me permet de mettre en pratique l'integration frontend, le routage, l'authentification et la consommation d'API.
+
 ## Auteur
 
-Gwenael Emans
+Gwenaële Manse
